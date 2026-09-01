@@ -23,3 +23,13 @@ Google Cloud Platform is strongest in both areas. It created Kubernetes and its 
 
 **Which cloud platform would you personally choose and why?**
 *(Write 2–3 sentences here based on your own reasoning — e.g., which platform's strengths matter most for your goals, ease of use, pricing, or career relevance.)*
+
+## Service Equivalence Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | EC2 (Elastic Compute Cloud) | Virtual Machines | Compute Engine |
+| Object Storage | S3 (Simple Storage Service) | Blob Storage | Cloud Storage |
+| Identity Management | IAM (Identity and Access Management) | Azure Active Directory | Cloud IAM |
+| SQL Database | RDS (Relational Database Service) | Azure SQL Database | Cloud SQL |
+| Kubernetes | EKS (Elastic Kubernetes Service) | AKS (Azure Kubernetes Service) | GKE (Google Kubernetes Engine) |
