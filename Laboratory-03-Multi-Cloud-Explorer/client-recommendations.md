@@ -51,3 +51,14 @@ AWS is best suited for a global e-commerce company due to its unmatched number o
 1. Amazon EC2 with Auto Scaling (handling traffic spikes)
 2. Amazon RDS (managing product and order databases)
 3. Amazon CloudFront (global content delivery for fast page loads)
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | Google Cloud Platform (GCP) | Low-cost entry with generous free-tier credits, serverless options, and easy scaling as the business grows without large upfront infrastructure investment. |
+| Enterprise Organization | Amazon Web Services (AWS) | Broadest service catalog, largest global infrastructure, and the most mature ecosystem of enterprise-grade tools and third-party integrations. |
+| Microsoft Environment | Microsoft Azure | Native integration with Windows Server, Active Directory, and Microsoft 365 minimizes migration friction for organizations already on Microsoft technology. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | Access to TensorFlow, Vertex AI, and specialized TPU hardware built specifically for training and deploying machine learning models efficiently. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | Google created Kubernetes, and GKE is widely regarded as the most refined, stable, and feature-complete managed Kubernetes service available. |
+| Global Web Application | Amazon Web Services (AWS) | Largest number of regions and availability zones worldwide, combined with mature auto-scaling and CDN (CloudFront) services for low-latency global delivery. |
