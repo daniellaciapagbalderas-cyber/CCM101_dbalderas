@@ -1,3 +1,6 @@
+**FINAL REFLECTION**
+
+
 Laboratory 03: Multi-Cloud Exploration
 In this laboratory, I explored how different cloud providers offer similar services under different names, interfaces, and pricing models. I learned that choosing a provider requires comparing cost, performance, features, and the risk of vendor lock-in. The biggest challenge was becoming familiar with the different consoles and terminology used by each platform. Overall, I realized that a multi-cloud approach gives an organization more flexibility, but it also adds complexity that must be managed carefully.
 
