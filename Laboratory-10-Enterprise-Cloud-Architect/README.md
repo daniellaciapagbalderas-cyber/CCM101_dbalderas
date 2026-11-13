@@ -217,10 +217,3 @@ docker compose up -d
 
 ---
 
-## License
-
-[Add your license here, e.g. MIT]
-
-## Author
-
-[Your name] — [your contact or GitHub profile]
