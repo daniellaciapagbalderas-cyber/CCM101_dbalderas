@@ -1,4 +1,4 @@
-# Project Name
+# Laboratory-10-Enterprise-Cloud-Architect
 
 > One-line description: a containerized service stack deployed with Docker Compose, with automated backups, hardened security, and a documented recovery process.
 
